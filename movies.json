@@ -9,35 +9,35 @@
   {
     "title": "Такси 2",
     "image": "/movie/taxi2.webp",
-    "rating": 10,
+    "rating": 3,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/103"
   },
   {
     "title": "Такси 3",
     "image": "/movie/taxi3.jpg",
-    "rating": 10,
+    "rating": 5,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/104"
   },
   {
     "title": "Бесславные ублюдки",
     "image": "/movie/beslavnie.jpeg",
-    "rating": 10,
+    "rating": null,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/105"
   },
   {
     "title": "Омерзительная восьмерка",
     "image": "/movie/vosmerka.jpeg",
-    "rating": 10,
+    "rating": 2,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/106"
   },
   {
     "title": "Реальные кабаны",
     "image": "/movie/kabanu.webp",
-    "rating": 10,
+    "rating": null,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/107"
   }
