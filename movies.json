@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Такси",
+    "image": "/movie/taxi.webp",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/102"
+  },
+  {
+    "title": "Такси 2",
+    "image": "/movie/taxi2.webp",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/103"
+  },
+  {
+    "title": "Такси 3",
+    "image": "/movie/taxi3.jpg",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/104"
+  },
+  {
+    "title": "Бесславные ублюдки",
+    "image": "/movie/beslavnie.jpeg",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/105"
+  },
+  {
+    "title": "Омерзительная восьмерка",
+    "image": "/movie/vosmerka.jpeg",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/106"
+  },
+  {
+    "title": "Реальные кабаны",
+    "image": "/movie/kabanu.webp",
+    "rating": 10,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/107"
+  }
+]
