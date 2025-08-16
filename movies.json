@@ -40,5 +40,271 @@
     "rating": null,
     "category": "Фыльмы",
     "link": "https://t.me/jnsfilms/107"
+  },
+  {
+    "title": "Джуманджи 1",
+    "image": "/movie/jumanji.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/108"
+  },
+  {
+    "title": "Джуманджи 2",
+    "image": "/movie/jumanji2.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/109"
+  },
+  {
+    "title": "Последний самурай",
+    "image": "/movie/lastSam.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/110"
+  },
+  {
+    "title": "Аэроплан (1980)",
+    "image": "/movie/aeroplan.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/111"
+  },
+  {
+    "title": "Чарли и шоколадная фабрика",
+    "image": "/movie/charliAndChocolate.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/112"
+  },
+  {
+    "title": "Фантомас",
+    "image": "/movie/fantomas.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/113"
+  },
+  {
+    "title": "Фантомас Разбушевался",
+    "image": "/movie/fantomas2.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/114"
+  },
+  {
+    "title": "Гладиатор",
+    "image": "/movie/gladiator.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/115"
+  },
+  {
+    "title": "Поймай меня, если сможешь",
+    "image": "/movie/catchMe.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/116"
+  },
+  {
+    "title": "Из Китая с Любовью",
+    "image": "/movie/fromChine.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/118"
+  },
+  {
+    "title": "Мумия",
+    "image": "/movie/mymia.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/119"
+  },
+  {
+    "title": "Мумия 2",
+    "image": "/movie/mymia2.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/120"
+  },
+  {
+    "title": "Кровью и потом анаболики",
+    "image": "/movie/blood.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/121"
+  },
+  {
+    "title": "Чужой (1979)",
+    "image": "/movie/chyjoi.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/122"
+  },
+  {
+    "title": "Мой любимый Марсианин",
+    "image": "/movie/moiMarcianin.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/123"
+  },
+  {
+    "title": "Престиж",
+    "image": "/movie/prestij.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/124"
+  },
+  {
+    "title": "Остров проклятых",
+    "image": "/movie/ostrov.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/125"
+  },
+  {
+    "title": "Кролик ДжоДжо",
+    "image": "/movie/jojoRabbit.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/126"
+  },
+  {
+    "title": "Реальные упыри",
+    "image": "/movie/reallyYperi.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/127"
+  },
+  {
+    "title": "Убойные каникулы",
+    "image": "/movie/eboinuiKanikylu.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/128"
+  },
+  {
+    "title": "Форсаж 1",
+    "image": "/movie/forsaj1.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/129"
+  },
+  {
+    "title": "Форсаж 2",
+    "image": "/movie/forsaj2.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/130"
+  },
+  {
+    "title": "Форсаж 3",
+    "image": "/movie/forsaj3.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/131"
+  },
+  {
+    "title": "Царство небесное",
+    "image": "/movie/sartctvo.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/132"
+  },
+  {
+    "title": "Пираты Карибского моря 1",
+    "image": "/movie/pkm1.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/133"
+  },
+  {
+    "title": "Пираты Карибского моря 2",
+    "image": "/movie/pkm2.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/134"
+  },
+  {
+    "title": "Пираты Карибского моря 3",
+    "image": "/movie/pkm3.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/135"
+  },
+  {
+    "title": "Техасская резня бензопилой (1974)",
+    "image": "/movie/trb.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/136"
+  },
+  {
+    "title": "Скотт Пилигрим против всех",
+    "image": "/movie/sppv.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/137"
+  },
+  {
+    "title": "Искатели могил",
+    "image": "/movie/iskateliMogil.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/138"
+  },
+  {
+    "title": "Матрица",
+    "image": "/movie/matrix.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/139"
+  },
+  {
+    "title": "Мгла",
+    "image": "/movie/mgla.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/140"
+  },
+  {
+    "title": "Ван Хельсинг",
+    "image": "/movie/banHelsing.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/141"
+  },
+  {
+    "title": "Нечто",
+    "image": "/movie/nechto.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/142"
+  },
+  {
+    "title": "Хэллоуин",
+    "image": "/movie/heloin.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/143"
+  },
+  {
+    "title": "Бесстрашный (2006)",
+    "image": "/movie/besstrashnui.jpg",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/144"
+  },
+  {
+    "title": "Психиатрическая больница Конджиам",
+    "image": "/movie/psixBolnichaKon.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/145"
+  },
+  {
+    "title": "Репортаж",
+    "image": "/movie/reportaj.webp",
+    "rating": null,
+    "category": "Фыльмы",
+    "link": "https://t.me/jnsfilms/146"
   }
 ]
