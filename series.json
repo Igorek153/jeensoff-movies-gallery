@@ -2,14 +2,14 @@
   {
     "title": "Игра престолов",
     "image": "/series/IP.webp",
-    "rating": null,
+    "rating": 9,
     "category": "Сериалы",
     "link": "https://t.me/jeense4ip/70"
   },
   {
     "title": "Шерлок",
     "image": "/series/sherlok.webp",
-    "rating": null,
+    "rating": 6,
     "category": "Сериалы",
     "link": "https://t.me/jnsseries/2"
   }
