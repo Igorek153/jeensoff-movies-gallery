@@ -4,14 +4,51 @@
     "image": "/others/pobeg.webp",
     "rating": null,
     "category": "Другое",
-    "link": "https://t.me/jnsother/4"
+    "link": "https://t.me/jnsother/4",
+    "allLinks": [
+      { "name": "1 сезон - 1 серия", "url": "https://t.me/jnsother/4" },
+      { "name": "1 сезон - 2 серия", "url": "https://t.me/jnsother/4" },
+      { "name": "1 сезон - 3 серия", "url": "https://t.me/jnsother/5" },
+      { "name": "1 сезон - 4 серия", "url": "https://t.me/jnsother/6" },
+      { "name": "1 сезон - 5 серия", "url": "https://t.me/jnsother/7" },
+      { "name": "1 сезон - 6 серия", "url": "https://t.me/jnsother/8" },
+      { "name": "1 сезон - 7 серия", "url": "https://t.me/jnsother/9" },
+      { "name": "1 сезон - 8 серия", "url": "https://t.me/jnsother/10" },
+
+      { "name": "2 сезон - 1 серия", "url": "https://t.me/jnsother/11" },
+      { "name": "2 сезон - 2 серия", "url": "https://t.me/jnsother/12" },
+      { "name": "2 сезон - 4 серия", "url": "https://t.me/jnsother/13" },
+      { "name": "2 сезон - 5 серия", "url": "https://t.me/jnsother/14" },
+      { "name": "2 сезон - 6 серия", "url": "https://t.me/jnsother/15" },
+      { "name": "2 сезон - 7 серия", "url": "https://t.me/jnsother/16" },
+      { "name": "2 сезон - 8 серия", "url": "https://t.me/jnsother/17" }
+    ]
   },
   {
     "title": "Между молотом и наковальней (Кузнецы)",
     "image": "/others/kyznechi.webp",
     "rating": null,
     "category": "Другое",
-    "link": "https://t.me/jnsother/18"
+    "link": "https://t.me/jnsother/18",
+    "allLinks": [
+      { "name": "Серия 1", "url": "https://t.me/jnsother/18" },
+      { "name": "Серия 2", "url": "https://t.me/jnsother/19" },
+      { "name": "Серия 3", "url": "https://t.me/jnsother/20" },
+      { "name": "Серия 4", "url": "https://t.me/jnsother/21" },
+      { "name": "Серия 5", "url": "https://t.me/jnsother/22" },
+      { "name": "Серия 6", "url": "https://t.me/jnsother/23" },
+      { "name": "Серия 7", "url": "https://t.me/jnsother/24" },
+      { "name": "Серия 8", "url": "https://t.me/jnsother/25" },
+      { "name": "Серия 9", "url": "https://t.me/jnsother/26" },
+      { "name": "Серия 10", "url": "https://t.me/jnsother/27" },
+      { "name": "Серия 11", "url": "https://t.me/jnsother/28" },
+      { "name": "Серия 12", "url": "https://t.me/jnsother/29" },
+      { "name": "Серия 13", "url": "https://t.me/jnsother/30" },
+      { "name": "Серия 14", "url": "https://t.me/jnsother/31" },
+      { "name": "Серия 15", "url": "https://t.me/jnsother/32" },
+      { "name": "Серия 16", "url": "https://t.me/jnsother/33" },
+      { "name": "Серия 17", "url": "https://t.me/jnsother/34" }
+    ]
   },
   {
     "title": "Лучший опенинг Наруто",
@@ -25,14 +62,24 @@
     "image": "/others/legendi.webp",
     "rating": null,
     "category": "Другое",
-    "link": "https://t.me/jnsother/37"
+    "link": "https://t.me/jnsother/37",
+    "allLinks": [
+      { "name": "Серия 1", "url": "https://t.me/jnsother/37" },
+      { "name": "Серия 2", "url": "https://t.me/jnsother/38" },
+      { "name": "Серия 3", "url": "https://t.me/jnsother/39" }
+    ]
   },
   {
     "title": "Битва Роботов",
     "image": "/others/bitvaRobots.webp",
     "rating": null,
     "category": "Другое",
-    "link": "https://t.me/jnsother/40"
+    "link": "https://t.me/jnsother/40",
+    "allLinks": [
+      { "name": "Сезон 1 — Серия 1-2", "url": "https://t.me/jnsother/40" },
+      { "name": "Сезон 1 — Серия 4-6", "url": "https://t.me/jnsother/41" },
+      { "name": "Сезон 3 — Серия 1-2", "url": "https://t.me/jnsother/42" }
+    ]
   },
   {
     "title": "Документалка про Игру Престолов",
@@ -42,17 +89,24 @@
     "link": "https://t.me/jnsother/43"
   },
   {
-    "title": "Мир наизнанку (Камбоджа)",
+    "title": "Мир наизнанку",
     "image": "/others/mirNaIznanky.jpeg",
     "rating": null,
     "category": "Другое",
-    "link": "https://t.me/jnsother/44"
-  },
-  {
-    "title": "Мир наизнанку (Индия)",
-    "image": "/others/mirNaIznanky.jpeg",
-    "rating": null,
-    "category": "Другое",
-    "link": "https://t.me/jnsother/49"
+    "link": "https://t.me/jnsother/44",
+    "allLinks": [
+      { "name": "Камбоджа — Серия 1", "url": "https://t.me/jnsother/44" },
+      { "name": "Камбоджа — Серия 2", "url": "https://t.me/jnsother/45" },
+      { "name": "Камбоджа — Серия 3", "url": "https://t.me/jnsother/46" },
+      { "name": "Камбоджа — Серия 4-5", "url": "https://t.me/jnsother/47" },
+      { "name": "Камбоджа — Серия 6", "url": "https://t.me/jnsother/48" },
+
+      { "name": "Индия — Серия 2", "url": "https://t.me/jnsother/49" },
+      { "name": "Индия — Серия 3", "url": "https://t.me/jnsother/50" },
+      { "name": "Индия — Серия 4", "url": "https://t.me/jnsother/51" },
+      { "name": "Индия — Серия 5-6", "url": "https://t.me/jnsother/52" },
+      { "name": "Индия — Серия 7", "url": "https://t.me/jnsother/53" },
+      { "name": "Индия — Серия 8", "url": "https://t.me/jnsother/54" }
+    ]
   }
 ]

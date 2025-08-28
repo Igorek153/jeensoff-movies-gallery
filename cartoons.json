@@ -4,14 +4,66 @@
     "image": "/cartoons/aang.webp",
     "rating": 10,
     "category": "Мультфильмы",
-    "link": "https://t.me/avatarioooooo/29"
+    "link": "https://t.me/avatarioooooo/29",
+    "allLinks": [
+      { "name": "1 сезон серия 1-4", "url": "https://t.me/avatarioooooo/29" },
+      { "name": "1 сезон серия 5-8", "url": "https://t.me/avatarioooooo/30" },
+      { "name": "1 сезон серия 9-12", "url": "https://t.me/avatarioooooo/31" },
+      { "name": "1 сезон серия 13-17", "url": "https://t.me/avatarioooooo/32" },
+      { "name": "1 сезон серия 18-20", "url": "https://t.me/avatarioooooo/33" },
+
+      { "name": "2 сезон серия 1-2", "url": "https://t.me/avatarioooooo/33" },
+      { "name": "2 сезон серия 3-6", "url": "https://t.me/avatarioooooo/34" },
+      { "name": "2 сезон серия 7-11", "url": "https://t.me/avatarioooooo/35" },
+      { "name": "2 сезон серия 12-16", "url": "https://t.me/avatarioooooo/36" },
+      { "name": "2 сезон серия 17-20", "url": "https://t.me/avatarioooooo/37" },
+
+      { "name": "3 сезон серия 1", "url": "https://t.me/avatarioooooo/37" },
+      { "name": "3 сезон серия 2-6", "url": "https://t.me/avatarioooooo/38" },
+      { "name": "3 сезон серия 7-11", "url": "https://t.me/avatarioooooo/39" },
+      { "name": "3 сезон серия 12-16", "url": "https://t.me/avatarioooooo/40" },
+      { "name": "3 сезон серия 16-21", "url": "https://t.me/avatarioooooo/41" }
+    ]
   },
   {
     "title": "Аватар: Легенда об Корре",
     "image": "/cartoons/kora.webp",
     "rating": 7,
     "category": "Мультфильмы",
-    "link": "https://t.me/avatarioooooo/2"
+    "link": "https://t.me/avatarioooooo/2",
+    "allLinks": [
+      { "name": "1 сезон серия 1-2", "url": "https://t.me/avatarioooooo/2" },
+      { "name": "1 сезон серия 3-4", "url": "https://t.me/avatarioooooo/3" },
+      { "name": "1 сезон серия 5-6", "url": "https://t.me/avatarioooooo/4" },
+      { "name": "1 сезон серия 7-8", "url": "https://t.me/avatarioooooo/5" },
+      { "name": "1 сезон серия 9-10", "url": "https://t.me/avatarioooooo/6" },
+      { "name": "1 сезон серия 11-12", "url": "https://t.me/avatarioooooo/7" },
+
+      { "name": "2 сезон серия 1", "url": "https://t.me/avatarioooooo/8" },
+      { "name": "2 сезон серия 2-3", "url": "https://t.me/avatarioooooo/9" },
+      { "name": "2 сезон серия 4-5", "url": "https://t.me/avatarioooooo/10" },
+      { "name": "2 сезон серия 6-7", "url": "https://t.me/avatarioooooo/11" },
+      { "name": "2 сезон серия 8-9", "url": "https://t.me/avatarioooooo/12" },
+      { "name": "2 сезон серия 10-11", "url": "https://t.me/avatarioooooo/13" },
+      { "name": "2 сезон серия 12-13", "url": "https://t.me/avatarioooooo/14" },
+      { "name": "2 сезон серия 14", "url": "https://t.me/avatarioooooo/15" },
+
+      { "name": "3 сезон серия 1-2", "url": "https://t.me/avatarioooooo/16" },
+      { "name": "3 сезон серия 3-4", "url": "https://t.me/avatarioooooo/17" },
+      { "name": "3 сезон серия 5-6", "url": "https://t.me/avatarioooooo/18" },
+      { "name": "3 сезон серия 7-8", "url": "https://t.me/avatarioooooo/19" },
+      { "name": "3 сезон серия 9-10", "url": "https://t.me/avatarioooooo/44" },
+      { "name": "3 сезон серия 11-12", "url": "https://t.me/avatarioooooo/20" },
+      { "name": "3 сезон серия 13", "url": "https://t.me/avatarioooooo/21" },
+
+      { "name": "4 сезон серия 1-2", "url": "https://t.me/avatarioooooo/22" },
+      { "name": "4 сезон серия 3-4", "url": "https://t.me/avatarioooooo/23" },
+      { "name": "4 сезон серия 5-6", "url": "https://t.me/avatarioooooo/24" },
+      { "name": "4 сезон серия 7-8", "url": "https://t.me/avatarioooooo/25" },
+      { "name": "4 сезон серия 9-10", "url": "https://t.me/avatarioooooo/26" },
+      { "name": "4 сезон серия 11-12", "url": "https://t.me/avatarioooooo/27" },
+      { "name": "4 сезон серия 13", "url": "https://t.me/avatarioooooo/28" }
+    ]
   },
   {
     "title": "Дом Монстр",
@@ -368,7 +420,12 @@
     "image": "/cartoons/sp1994.webp",
     "rating": null,
     "category": "Мультфильмы",
-    "link": "https://t.me/jnsfilms/176"
+    "link": "https://t.me/jnsfilms/176",
+    "allLinks": [
+      { "name": "серия 1-3", "url": "https://t.me/jnsfilms/176" },
+      { "name": "серия 3-6", "url": "https://t.me/jnsfilms/177" },
+      { "name": "серия 7-9", "url": "https://t.me/jnsfilms/178" }
+    ]
   },
   {
     "title": "Человек-паук: Через вселенные",

@@ -4,13 +4,101 @@
     "image": "/series/IP.webp",
     "rating": 9,
     "category": "Сериалы",
-    "link": "https://t.me/jeense4ip/70"
+    "link": "https://t.me/jeense4ip/70",
+    "allLinks": [
+      { "name": "1 сезон - 1 серия", "url": "https://t.me/jeense4ip/70" },
+      { "name": "1 сезон - 2 серия", "url": "https://t.me/jeense4ip/71" },
+      { "name": "1 сезон - 3 серия", "url": "https://t.me/jeense4ip/72" },
+      { "name": "1 сезон - 4 серия", "url": "https://t.me/jeense4ip/73" },
+      { "name": "1 сезон - 5 серия", "url": "https://t.me/jeense4ip/74" },
+      { "name": "1 сезон - 6 серия", "url": "https://t.me/jeense4ip/78" },
+      { "name": "1 сезон - 7 серия", "url": "https://t.me/jeense4ip/79" },
+      { "name": "1 сезон - 8 серия", "url": "https://t.me/jeense4ip/80" },
+      { "name": "1 сезон - 9 серия", "url": "https://t.me/jeense4ip/81" },
+      { "name": "1 сезон - 10 серия", "url": "https://t.me/jeense4ip/82" },
+
+      { "name": "2 сезон - 1 серия", "url": "https://t.me/jeense4ip/53" },
+      { "name": "2 сезон - 2 серия", "url": "https://t.me/jeense4ip/54" },
+      { "name": "2 сезон - 3 серия", "url": "https://t.me/jeense4ip/55" },
+      { "name": "2 сезон - 4 серия", "url": "https://t.me/jeense4ip/56" },
+      { "name": "2 сезон - 5 серия", "url": "https://t.me/jeense4ip/57" },
+      { "name": "2 сезон - 6 серия", "url": "https://t.me/jeense4ip/58" },
+      { "name": "2 сезон - 7 серия", "url": "https://t.me/jeense4ip/59" },
+      { "name": "2 сезон - 8 серия", "url": "https://t.me/jeense4ip/60" },
+      { "name": "2 сезон - 9 серия", "url": "https://t.me/jeense4ip/61" },
+      { "name": "2 сезон - 10 серия", "url": "https://t.me/jeense4ip/62" },
+
+      { "name": "3 сезон - 1 серия", "url": "https://t.me/jeense4ip/63" },
+      { "name": "3 сезон - 2 серия", "url": "https://t.me/jeense4ip/64" },
+      { "name": "3 сезон - 3 серия", "url": "https://t.me/jeense4ip/65" },
+      { "name": "3 сезон - 4 серия", "url": "https://t.me/jeense4ip/66" },
+      { "name": "3 сезон - 5 серия", "url": "https://t.me/jeense4ip/67" },
+      { "name": "3 сезон - 6 серия", "url": "https://t.me/jeense4ip/68" },
+      { "name": "3 сезон - 7 серия", "url": "https://t.me/jeense4ip/69" },
+      { "name": "3 сезон - 8 серия", "url": "https://t.me/jeense4ip/15" },
+      { "name": "3 сезон - 9 серия", "url": "https://t.me/jeense4ip/16" },
+      { "name": "3 сезон - 10 серия", "url": "https://t.me/jeense4ip/83" },
+
+      { "name": "4 сезон - 1 серия", "url": "https://t.me/jeense4ip/84" },
+      { "name": "4 сезон - 2 серия", "url": "https://t.me/jeense4ip/17" },
+      { "name": "4 сезон - 3 серия", "url": "https://t.me/jeense4ip/18" },
+      { "name": "4 сезон - 4 серия", "url": "https://t.me/jeense4ip/19" },
+      { "name": "4 сезон - 5 серия", "url": "https://t.me/jeense4ip/20" },
+      { "name": "4 сезон - 6 серия", "url": "https://t.me/jeense4ip/21" },
+      { "name": "4 сезон - 7 серия", "url": "https://t.me/jeense4ip/22" },
+      { "name": "4 сезон - 8 серия", "url": "https://t.me/jeense4ip/23" },
+      { "name": "4 сезон - 9 серия", "url": "https://t.me/jeense4ip/24" },
+      { "name": "4 сезон - 10 серия", "url": "https://t.me/jeense4ip/25" },
+
+      { "name": "5 сезон - 1 серия", "url": "https://t.me/jeense4ip/85" },
+      { "name": "5 сезон - 2 серия", "url": "https://t.me/jeense4ip/26" },
+      { "name": "5 сезон - 3 серия", "url": "https://t.me/jeense4ip/86" },
+      { "name": "5 сезон - 4 серия", "url": "https://t.me/jeense4ip/27" },
+      { "name": "5 сезон - 5 серия", "url": "https://t.me/jeense4ip/28" },
+      { "name": "5 сезон - 6 серия", "url": "https://t.me/jeense4ip/29" },
+      { "name": "5 сезон - 7 серия", "url": "https://t.me/jeense4ip/30" },
+      { "name": "5 сезон - 8 серия", "url": "https://t.me/jeense4ip/31" },
+      { "name": "5 сезон - 9 серия", "url": "https://t.me/jeense4ip/32" },
+      { "name": "5 сезон - 10 серия", "url": "https://t.me/jeense4ip/33" },
+
+      { "name": "6 сезон - 1 серия", "url": "https://t.me/jeense4ip/90" },
+      { "name": "6 сезон - 2 серия", "url": "https://t.me/jeense4ip/34" },
+      { "name": "6 сезон - 3 серия", "url": "https://t.me/jeense4ip/35" },
+      { "name": "6 сезон - 4 серия", "url": "https://t.me/jeense4ip/36" },
+      { "name": "6 сезон - 5 серия", "url": "https://t.me/jeense4ip/37" },
+      { "name": "6 сезон - 6 серия", "url": "https://t.me/jeense4ip/87" },
+      { "name": "6 сезон - 7 серия", "url": "https://t.me/jeense4ip/38" },
+      { "name": "6 сезон - 8 серия", "url": "https://t.me/jeense4ip/39" },
+      { "name": "6 сезон - 9 серия", "url": "https://t.me/jeense4ip/40" },
+      { "name": "6 сезон - 10 серия", "url": "https://t.me/jeense4ip/41" },
+
+      { "name": "7 сезон - 1 серия", "url": "https://t.me/jeense4ip/88" },
+      { "name": "7 сезон - 2 серия", "url": "https://t.me/jeense4ip/89" },
+      { "name": "7 сезон - 3 серия", "url": "https://t.me/jeense4ip/42" },
+      { "name": "7 сезон - 4 серия", "url": "https://t.me/jeense4ip/75" },
+      { "name": "7 сезон - 5 серия", "url": "https://t.me/jeense4ip/43" },
+      { "name": "7 сезон - 6 серия", "url": "https://t.me/jeense4ip/44" },
+      { "name": "7 сезон - 7 серия", "url": "https://t.me/jeense4ip/45" },
+
+      { "name": "8 сезон - 1 серия", "url": "https://t.me/jeense4ip/46" },
+      { "name": "8 сезон - 2 серия", "url": "https://t.me/jeense4ip/47" },
+      { "name": "8 сезон - 3 серия", "url": "https://t.me/jeense4ip/531" },
+      { "name": "8 сезон - 4 серия", "url": "https://t.me/jeense4ip/49" },
+      { "name": "8 сезон - 5 серия", "url": "https://t.me/jeense4ip/50" },
+      { "name": "8 сезон - 6 серия", "url": "https://t.me/jeense4ip/51" }
+    ]
+
   },
   {
     "title": "Шерлок",
     "image": "/series/sherlok.webp",
     "rating": 6,
     "category": "Сериалы",
-    "link": "https://t.me/jnsseries/2"
+    "link": "https://t.me/jnsseries/2",
+    "allLinks": [
+      { "name": "1 сезон - 1 серия", "url": "https://t.me/jnsseries/2" },
+      { "name": "1 сезон - 2 серия", "url": "https://t.me/jnsseries/3" },
+      { "name": "1 сезон - 3 серия", "url": "https://t.me/jnsseries/4" }
+    ]
   }
 ]
