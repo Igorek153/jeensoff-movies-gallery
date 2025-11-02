@@ -1,8 +1,24 @@
 [
   {
+    "title": "Джанго освобожденный (2012)",
+    "image": "/movie/django.jpg",
+    "rating": 10,
+    "category": "Фильмы",
+    "link": "https://t.me/Jeensarchivenew/2857",
+    "date": "01-11-2025"
+  },
+  {
+    "title": "Револьвер (2005)",
+    "image": "/movie/revolver.jpg",
+    "rating": 4,
+    "category": "Фильмы",
+    "link": "https://t.me/Jeensarchivenew/2838",
+    "date": "31-10-2025"
+  },
+  {
     "title": "Восстание планеты обезьян (2011)",
     "image": "/movie/monke1.jpg",
-    "rating": null,
+    "rating": 8,
     "category": "Фильмы",
     "link": "https://t.me/Jeensarchivenew/2769",
     "date": "27-10-2025"
@@ -10,7 +26,7 @@
   {
     "title": "Планета обезьян: Революция (2014)",
     "image": "/movie/monke2.jfif",
-    "rating": null,
+    "rating": 5,
     "category": "Фильмы",
     "link": "https://t.me/Jeensarchivenew/2770",
     "date": "27-10-2025"
@@ -18,7 +34,7 @@
   {
     "title": "Я, снова я и Ирэн (2000)",
     "image": "/movie/iren.jpg",
-    "rating": null,
+    "rating": 8,
     "category": "Фильмы",
     "link": "https://t.me/Jeensarchivenew/2729",
     "date": "23-10-2025"
