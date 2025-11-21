@@ -120,7 +120,12 @@
     "rating": null,
     "category": "Другое",
     "link": "https://t.me/jnsother/44",
+    "date": "21-11-2025",
     "allLinks": [
+      { "name": "Япония — Серия 1", "url": "https://t.me/Jeensarchivenew/3018" },
+      { "name": "Япония — Серия 2", "url": "https://t.me/Jeensarchivenew/3018" },
+      { "name": "Япония — Серия 3", "url": "https://t.me/Jeensarchivenew/3020" },
+
       { "name": "Камбоджа — Серия 1", "url": "https://t.me/jnsother/44" },
       { "name": "Камбоджа — Серия 2", "url": "https://t.me/jnsother/45" },
       { "name": "Камбоджа — Серия 3", "url": "https://t.me/jnsother/46" },
@@ -133,6 +138,15 @@
       { "name": "Индия — Серия 5-6", "url": "https://t.me/jnsother/52" },
       { "name": "Индия — Серия 7", "url": "https://t.me/jnsother/53" },
       { "name": "Индия — Серия 8", "url": "https://t.me/jnsother/54" }
+
     ]
+  },
+  {
+    "title": "Xbox Partner Preview",
+    "image": "video-icon",
+    "rating": null,
+    "category": "Другое",
+    "date": "21-11-2025",
+    "link": "https://t.me/Jeensarchivenew/3019"
   }
 ]
