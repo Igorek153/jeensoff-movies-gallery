@@ -1,19 +1,5 @@
 [
   {
-    "title": "Марафон Шрека (2025)",
-    "image": "/cartoons/shrek.jpg",
-    "rating": 10,
-    "category": "Мультфильмы",
-    "link": "",
-    "allLinks": [
-      { "name": "Шрек 1", "url": "https://t.me/avatarioooooo/29" },
-      { "name": "Шрек 2", "url": "https://t.me/avatarioooooo/30" },
-      { "name": "Шрек 3", "url": "https://t.me/avatarioooooo/31" },
-      { "name": "Шрек 4", "url": "https://t.me/avatarioooooo/32" }
-    ],
-    "date": "06-11-2025"
-  },
-  {
     "title": "Гадкий я (2010)",
     "image": "/cartoons/gadkiyya.jpg",
     "rating": 6,
