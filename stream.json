@@ -1,16 +1,40 @@
 [
   {
+    "title": "Стримы ноябрь 2025",
+    "image": null,
+    "rating": null,
+    "category": "Стримы",
+    "allLinks": [
+      {
+        "name": "Кооп в MIMESIS,RV There Yet?, R.E.P.O - Стрим 02.11.2025",
+        "url": "https://www.youtube.com/watch?v=MWG1b2WJbYg"
+      }
+    ],
+    "isYoutube": true,
+    "date": "26-11-2025"
+  },
+  {
     "title": "Стримы октябрь 2025",
     "image": null,
     "rating": null,
     "category": "Стримы",
     "allLinks": [
       {
-        "name": "Kenshi Генезис",
-        "url": "https://www.youtube.com/watch?v=JKtQBkFQAes"
+        "name": "Dispatch (1,2 эпизод) - Стрим 22.10.2025",
+        "url": "https://www.youtube.com/watch?v=lYCJydxXSgg"
+      },
+      {
+        "name": "Plague Inc: Evolved, Super Fantasy Kingdom - Стрим 28.10.2025",
+        "url": "https://www.youtube.com/watch?v=cEBDBbQRjeg"
+      },
+      {
+        "name": "Plague Inc: Evolved, Dispatch (3,4 эпизод)  - Стрим 29.10.2025",
+        "url": "https://www.youtube.com/watch?v=8h_DSn8hpN4"
       }
     ],
-    "date": "09-10-2025"
+    "isYoutube": true,
+    "date": "26-11-2025"
+
   },
   {
     "title": "Стримы август 2025",
@@ -20,11 +44,11 @@
     "allLinks": [
       {
         "name": "Победитель аукциона - Mount & Blade: Prophesy of Pendor (Стрим 18.08.2025)",
-        "url": "https://www.youtube.com/watch?v=lkVg0e-fays&t=2317s"
+        "url": "https://www.youtube.com/watch?v=lkVg0e-fays&pp=2AaNEg%3D%3D"
       },
       {
         "name": "Mount & Blade: Prophesy of Pendor #2 (Стрим 20.08.2025)",
-        "url": "https://www.youtube.com/watch?v=E8NJK8pKs0o&t=14s"
+        "url": "https://www.youtube.com/watch?v=E8NJK8pKs0o&pp=2AYO"
       },
       {
         "name": "GTA SA: Zombie Andreas, World of Warcraft Арена - Стрим 28.08.2025",
@@ -32,10 +56,10 @@
       },
       {
         "name": "GTA SA: Zombie Andreas, Mortal Sin - Стрим 30.08.2025",
-        "url": "https://www.youtube.com/watch?v=8kz3pqAfvX0&t=1s"
+        "url": "https://www.youtube.com/watch?v=8kz3pqAfvX0&pp=2AYH"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы июль 2025",
@@ -52,7 +76,7 @@
         "url": "https://www.youtube.com/watch?v=HC5wP1x28vI"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы июнь 2025",
@@ -69,7 +93,7 @@
         "url": "https://www.youtube.com/watch?v=I5cNANyUuxU"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы май 2025",
@@ -79,11 +103,11 @@
     "allLinks": [
       {
         "name": "страшилка, впервые в сабнатика l Subnautica (Стрим 03.05.2025)",
-        "url": "https://www.youtube.com/watch?v=3IEwuIbZwGE&t=11315s"
+        "url": "https://www.youtube.com/watch?v=3IEwuIbZwGE&pp=2AazWA%3D%3D"
       },
       {
         "name": "страшилка, первое глубокое дно... l Subnautica (Стрим 04.05.2025)",
-        "url": "https://www.youtube.com/watch?v=AjZ01T98LHg&pp=0gcJCcoJAYcqIYzv"
+        "url": "https://www.youtube.com/watch?v=AjZ01T98LHg"
       },
       {
         "name": "финал l Subnautica (Стрим 05.05.2025)",
@@ -91,23 +115,23 @@
       },
       {
         "name": "Победитель народного аукциона - Clair Obscur: Expedition 33 (Стрим 07.05.2025)",
-        "url": "https://www.youtube.com/watch?v=ec97bp5P1CE"
+        "url": "https://www.youtube.com/watch?v=ec97bp5P1CE&pp=0gcJCRUKAYcqIYzv"
       },
       {
         "name": "Арена и фулл синема l Clair Obscur: Expedition 33 (Стрим 08.05.2025)",
-        "url": "https://www.youtube.com/watch?v=DEbC4wdbHFE&t=26916s"
+        "url": "https://www.youtube.com/watch?v=DEbC4wdbHFE&pp=2Aak0gE%3D"
       },
       {
         "name": "Я кажется начинаю понимать... l Clair Obscur: Expedition 33 (Стрим 09.05.2025)",
-        "url": "https://www.youtube.com/watch?v=7mfdH7hpeZo&t=25649s"
+        "url": "https://www.youtube.com/watch?v=7mfdH7hpeZo&pp=2Ab9EtIHCQkVCgGHKiGM7w%3D%3D"
       },
       {
         "name": "финал экспедиции 33, новая дюна  l Clair Obscur: Expedition 33 (Стрим 10.05.2025)",
-        "url": "https://www.youtube.com/watch?v=Tag8EUwAbJA&t=19212s"
+        "url": "https://www.youtube.com/watch?v=Tag8EUwAbJA&pp=2AaMlgE%3D"
       },
       {
         "name": "Новый дум, великая игра кузнец осел l DOOM: The Dark Ages (Стрим 13.05.2025)",
-        "url": "https://www.youtube.com/watch?v=LiQYCSN-Rlk"
+        "url": "https://www.youtube.com/watch?v=LiQYCSN-Rlk&pp=0gcJCRUKAYcqIYzv"
       },
       {
         "name": "новинка, посмотрим какой я коп l The Precinct (стрим 14.05.2025)",
@@ -122,7 +146,7 @@
         "url": "https://www.youtube.com/watch?v=X2BtCYoiCWA"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы апрель 2025",
@@ -148,7 +172,7 @@
       },
       {
         "name": "Half Sword, Voices of the Void (Стрим 08.04.2025)",
-        "url": "https://www.youtube.com/watch?v=EEluMzur-PY"
+        "url": "https://www.youtube.com/watch?v=EEluMzur-PY&pp=0gcJCRUKAYcqIYzv"
       },
       {
         "name": "Казик CloverPit, Кузнец Medieval Blacksmith, Зомбэ Into the Dead (Стрим 15.04.2025)",
@@ -176,10 +200,10 @@
       },
       {
         "name": "Темное Братство l The Elder Scrolls IV: Oblivion Remastered #4 (Стрим 27.04.2025)",
-        "url": "https://www.youtube.com/watch?v=28bKFZo6RX4"
+        "url": "https://www.youtube.com/watch?v=28bKFZo6RX4&pp=0gcJCRUKAYcqIYzv"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы март 2025",
@@ -197,14 +221,14 @@
       },
       {
         "name": "Ко-оп страшилка l R.E.P.O. (Стрим 23.03.2025)",
-        "url": "https://www.youtube.com/watch?v=bs_KaiP0ibs"
+        "url": "https://www.youtube.com/watch?v=bs_KaiP0ibs&pp=0gcJCRUKAYcqIYzv"
       },
       {
         "name": "Впервые играю в Half-Life 2 (Стрим 30.03.2025)",
-        "url": "https://www.youtube.com/watch?v=jeudLnIFWVc&t=9947s"
+        "url": "https://www.youtube.com/watch?v=jeudLnIFWVc&pp=2AbbTQ%3D%3D"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы февраль 2025",
@@ -213,11 +237,11 @@
     "category": "Стримы",
     "allLinks": [
       {
-        "name": "Плейтест Титан Квест 2 Titan Quest 2 (Стрим 12.02.2025)",
+        "name": "Плейтест Титан Квест 2 l Titan Quest 2 (Стрим 12.02.2025)",
         "url": "https://www.youtube.com/watch?v=jZn37tisB2U"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы декабрь 2024",
@@ -227,7 +251,7 @@
     "allLinks": [
       {
         "name": "Индиана(Дроп) - Marvel Rivals - PoE 2 (Стрим 07.12.2024)",
-        "url": "https://www.youtube.com/watch?v=cbVGkLCSz1A&pp=0gcJCcoJAYcqIYzv"
+        "url": "https://www.youtube.com/watch?v=cbVGkLCSz1A"
       },
       {
         "name": "Впервые на Хардкоре в Path of Exile 2, Монах #1 (Стрим 14.12.2024)",
@@ -238,7 +262,7 @@
         "url": "https://www.youtube.com/watch?v=si5vRwRd_jU"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы ноябрь 2024",
@@ -288,7 +312,7 @@
       },
       {
         "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl #6 (Стрим 25.11.2024)",
-        "url": "https://www.youtube.com/watch?v=30oR-RYZQVw&pp=0gcJCcoJAYcqIYzv"
+        "url": "https://www.youtube.com/watch?v=30oR-RYZQVw"
       },
       {
         "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl #7 (Стрим 26.11.2024)",
@@ -307,7 +331,7 @@
         "url": "https://www.youtube.com/watch?v=JD7tnQfO3d8"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   },
   {
     "title": "Стримы октябрь 2024",
@@ -316,8 +340,24 @@
     "category": "Стримы",
     "allLinks": [
       {
+        "name": "Manor Lords, Hunt: Showdown, WoW HC (Стрим 10.10.2024)",
+        "url": "https://www.youtube.com/watch?v=jZo7lFEUFMY"
+      },
+      {
+        "name": "Нейронка по ИГРЕ ПРЕСТОЛОВ, Total War: Warhammer 3 (Стрим 15.10.2024)",
+        "url": "https://www.youtube.com/watch?v=uA96d9b2Cpc"
+      },
+      {
+        "name": "Новая игра + повышаем сложность, Total War: WARHAMMER III на Глобальной Карте (Стрим 17.10.2024)",
+        "url": "https://www.youtube.com/watch?v=Atm_PwINAh0"
+      },
+      {
+        "name": "Финал за Алит Анара в Total War: WARHAMMER III на Глобальной Карте (Стрим 23.10.2024)",
+        "url": "https://www.youtube.com/watch?v=fhO3NB08H74"
+      },
+      {
         "name": "Империя. Карл Франц #1 Total War: WARHAMMER III на Глобальной Карте (Стрим 24.10.2024)",
-        "url": "https://www.youtube.com/watch?v=vt0WTQsWQgg"
+        "url": "https://www.youtube.com/watch?v=vt0WTQsWQgg&pp=2AYG"
       },
       {
         "name": "Total War: WARHAMMER III, Warhammer: Vermintide 2, Brotato (Стрим 26.10.2024)",
@@ -329,13 +369,13 @@
       },
       {
         "name": "Скавены. Сникч #1 Total War: WARHAMMER III на Глобальной Карте (Стрим 30.10.2024)",
-        "url": "https://www.youtube.com/watch?v=7rPG5A7dgMQ"
+        "url": "https://www.youtube.com/watch?v=7rPG5A7dgMQ&pp=0gcJCRUKAYcqIYzv"
       },
       {
         "name": "Лесные Эльфы. Сестры Сумерек #1 Total War: Warhammer 3 (Стрим 31.10.2024)",
-        "url": "https://www.youtube.com/watch?v=r5qhJNG2nqA"
+        "url": "https://www.youtube.com/watch?v=r5qhJNG2nqA&pp=0gcJCRUKAYcqIYzv"
       }
     ],
-    "date": "17-09-2025"
+    "isYoutube": true
   }
 ]
