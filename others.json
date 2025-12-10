@@ -1,5 +1,20 @@
 [
   {
+    "title": "Need for Speed: Most Wanted",
+    "image": "/others/nfs.jpg",
+    "rating": null,
+    "category": "Другое",
+    "allLinks": [
+      { "name": "1 часть", "url": "https://t.me/Jeensarchivenew/3126" },
+      { "name": "2 часть", "url": "https://t.me/Jeensarchivenew/3127" },
+      { "name": "3 часть", "url": "https://t.me/Jeensarchivenew/3170" },
+      { "name": "4 часть", "url": "https://t.me/Jeensarchivenew/3175" },
+      { "name": "5 часть", "url": "https://t.me/Jeensarchivenew/3176" },
+      { "name": "6 часть", "url": "https://t.me/Jeensarchivenew/3197" }
+    ],
+    "date": "10-12-2025"
+  },
+  {
     "title": "GTA: San Andreas (DE)",
     "image": "/others/gtasa.jpg",
     "rating": null,
