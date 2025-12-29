@@ -1,5 +1,35 @@
 [
   {
+    "title": "Стримы декабрь 2025",
+    "image": null,
+    "rating": null,
+    "category": "Стримы",
+    "isYoutube": true,
+    "allLinks": [
+      {
+        "name": "Новый трай с 1 жизнью - S.T.A.L.K.E.R. G.A.M.M.A. 0.9.4 Аномали Гамма",
+        "url": "https://www.youtube.com/watch?v=s3-K9WmawMQ"
+      },
+      {
+        "name": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A. с одной жизнью #2",
+        "url": "https://www.youtube.com/watch?v=tfDzKlk5hGM"
+      },
+      {
+        "name": "S.T.A.L.K.E.R. Anomaly G.A.M.M.A. с одной жизнью",
+        "url": "https://www.youtube.com/watch?v=EMEkoxuOUdE"
+      },
+      {
+        "name": "Divinity: Original Sin II // 1 жизнь, соло перс #2",
+        "url": "https://www.youtube.com/watch?v=uzTlK0oF5mw"
+      },
+      {
+        "name": "Divinity: Original Sin II // 1 жизнь, соло перс #1",
+        "url": "https://www.youtube.com/watch?v=9-nWDxzZu-w"
+      }
+    ],
+    "date": "29-12-2025"
+  },
+  {
     "title": "Стримы ноябрь 2025",
     "image": null,
     "rating": null,
