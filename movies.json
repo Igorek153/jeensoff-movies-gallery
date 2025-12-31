@@ -1,5 +1,13 @@
 [
   {
+    "title": "Крепкий Орешек",
+    "image": "/movie/ko1.jpg",
+    "rating": null,
+    "category": "Фильмы",
+    "link": "https://t.me/Jeensarchivenew/3286",
+    "date": "31-12-2025"
+  },
+  {
     "title": "Джанго освобожденный (2012)",
     "image": "/movie/django.jpg",
     "rating": 10,
