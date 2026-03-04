@@ -1,5 +1,21 @@
 [
   {
+    "title": "Звёздные войны (2025)",
+    "image": "/movie/zv1.webp",
+    "rating": 10,
+    "category": "Фильмы",
+    "link": "https://t.me/Jeensarchivenew/3475",
+    "allLinks": [
+      { "name": "Эпизод I — Скрытая угроза", "url": "https://t.me/Jeensarchivenew/3475" },
+      { "name": "Эпизод II — Атака клонов", "url": "https://t.me/Jeensarchivenew/3476" },
+      { "name": "Эпизод III — Месть ситхов", "url": "https://t.me/Jeensarchivenew/3477" },
+      { "name": "Эпизод IV — Новая надежда", "url": "https://t.me/Jeensarchivenew/3548" },
+      { "name": "Эпизод V — Империя наносит ответный удар", "url": "https://t.me/Jeensarchivenew/3549" },
+      { "name": "Эпизод VI — Возвращение джедая", "url": "https://t.me/Jeensarchivenew/3550" }
+    ],
+    "date": "04-03-2026"
+  },
+  {
     "title": "Крепкий Орешек",
     "image": "/movie/ko1.jpg",
     "rating": null,
